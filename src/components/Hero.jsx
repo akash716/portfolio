@@ -1,6 +1,6 @@
 import { motion } from "motion/react"
 import { HERO_CONTENT } from "../constants"
-import profileImg from "../assets/kevinRushProfile.png"
+import profileImg from "../assets/KevinRushProfile.png"
 
 
 
