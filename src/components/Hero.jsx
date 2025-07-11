@@ -43,7 +43,7 @@ const Hero = () => {
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 1.2 }}
-              className=" ease-in-out hover:shadow-[0_0_15px_rgba(255,255,255,0.6)]" src={profilePic} alt="" />
+              className=" ease-in-out hover:shadow-[0_0_15px_rgba(255,255,255,0.6)]" src={profilePic} alt="Profile" />
           </div>
         </div>
       </div>
