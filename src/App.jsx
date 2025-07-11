@@ -4,7 +4,7 @@ import ContactForm from "./components/ContactForm"
 import Education from "./components/Education"
 import Footer from "./components/Footer"
 import Hero from "./components/Hero"
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 import Project from "./components/Project"
 import Technologies from "./components/Technologies"
 
