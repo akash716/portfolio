@@ -16,6 +16,7 @@ export const PROJECTS = [
     description:
       "A web application that enables users to convert documents between formats such as PDF to Word, Word to PDF, and more. Features include file upload, format selection, and downloading of converted files, all handled securely and efficiently.",
     technologies: ["HTML", "CSS", "Javascript", "react", "node js"],
+     projectLink: "https://pdf-tool-2.vercel.app/",
   },
   {
     title: "Portfolio Website",
@@ -23,6 +24,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
+     projectLink: "https://akash716.github.io/my-port/",
   },
   {
     title: "AI Extension",
@@ -30,6 +32,7 @@ export const PROJECTS = [
     description:
       "A browser extension that integrates AI-powered features to assist users with tasks such as summarizing content, generating responses, or providing real-time suggestions directly within the browser. Designed for seamless interaction and enhanced productivity.",
     technologies: ["HTML", "CSS", "JavaScript", "OpenAI API", "Chrome Extension API"],
+     projectLink: "https://github.com/akash716/ai-extension",
   },
 ];
 
@@ -38,3 +41,4 @@ export const CONTACT = {
   phoneNo: "+12 4555 666 00 ",
   email: "me@example.com",
 };
+
